@@ -1,6 +1,8 @@
+![demo](demo.png)
+
 # Ugly Sun
 
-I was browsing [/r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/) and saw a yoga mat with the most non-circular, or oval-shaped sun graphic ever. It was almost funny how bad it was. I decided to channel that humor into an SVG.
+I was browsing [/r/CrappyDesign](https://www.reddit.com/r/CrappyDesign/) and saw a yoga mat with the most non-circular and ugly sun graphic ever. It was almost funny how bad it was. I decided to channel that humor into an SVG.
 
 If you've ever wanted a poorly-drawn sun icon... look no further!
 
